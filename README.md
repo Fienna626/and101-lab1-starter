@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-- [x] !Simply a Hello world (Lab1.gif)
+!Simply a Hello world (Lab1.gif)
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
