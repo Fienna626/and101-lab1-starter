@@ -38,7 +38,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-- [x] not required for TF
+- [x] lab1.gif
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -50,7 +50,7 @@ The treasure hunt leads to a **JETPACK** while the bonus easter egg leads to a *
 
 ## License
 
-    Copyright 2025 Matthew Wyatt
+    Copyright 2025 Fienna Angeline
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
